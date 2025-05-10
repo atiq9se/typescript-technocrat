@@ -20,7 +20,7 @@
 
     class StudentAccount extends BankAccount{
         test(){
-            this.
+            this._balance
         }
     }
 
