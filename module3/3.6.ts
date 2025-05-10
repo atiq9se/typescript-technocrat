@@ -29,7 +29,7 @@
 
     class StudentAccount extends BankAccount{
         test(){
-            this.
+            
         }
     }
 
